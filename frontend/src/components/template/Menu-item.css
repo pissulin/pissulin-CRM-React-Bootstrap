@@ -1,0 +1,25 @@
+a.link{
+    display: block;
+    text-decoration: none;
+    color: #FFF;
+    padding: 15px;
+    font-weight: 300;   
+}
+
+a.link:hover{
+    background: linear-gradient(135deg, #07a7e3 0%, #32dac3 100%);
+}
+
+.label{
+    margin-left: 10px!important;
+}
+
+@media(max-width: 768px){
+    a.link{
+        display: flex;
+        align-items: center;
+        padding: 10px;
+        margin: 0;
+        height: 60px;
+    }
+}

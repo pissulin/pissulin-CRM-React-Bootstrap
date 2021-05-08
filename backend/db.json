@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Anderson Pissulin",
+      "email": "pissulin@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "junior oliveira dos santos",
+      "email": "j.oliveira@gmail.com"
+    },
+    {
+      "name": "Paula Consalves",
+      "email": "p.consalves@terra.com",
+      "id": 3
+    }
+  ]
+}
